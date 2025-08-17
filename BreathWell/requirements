@@ -1,0 +1,29 @@
+# LumosAI - Mental Health Companion Dependencies
+# Copy these dependencies for deployment on other platforms
+
+# Core web framework
+streamlit>=1.48.1
+
+# AI and Machine Learning
+google-genai>=1.30.0
+
+# Data processing and visualization
+numpy>=2.3.2
+pandas>=2.3.1
+plotly>=6.3.0
+
+# Image and computer vision
+opencv-python>=4.11.0.86
+pillow>=11.3.0
+
+# Development tools
+sift-stack-py>=0.8.3
+
+# Additional dependencies that may be needed for deployment:
+# python-dateutil>=2.8.0
+# typing-extensions>=4.0.0
+# requests>=2.25.0
+
+# Installation instructions:
+# pip install -r requirements.txt
+# or copy these dependencies to your requirements.txt file
